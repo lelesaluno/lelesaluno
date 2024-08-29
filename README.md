@@ -6,7 +6,7 @@ meu nome é leandro corrêa
 - estou aprendendo a linguagem JavaScript
 - local para armazenamento e compartilhamento dos meus projetos
 
-###contatos:
+### contatos:
 
 00001098564698sp@al.educacao.sp.gov.br
 
